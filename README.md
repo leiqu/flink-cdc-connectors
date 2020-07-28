@@ -1,3 +1,14 @@
+# Repository Has Moved
+
+Flink CDC Connectors has been moved to be maintained by [Ververica Group](https://github.com/ververica).
+
+This repository will not be maintained anymore.
+
+Please move to the following GitHub repository:
+
+git clone https://github.com/ververica/flink-cdc-connectors.git
+
+
 # Flink CDC Connectors
 
 Flink CDC Connectors is a set of source connectors for Apache Flink, ingesting changes from different databases using change data capture (CDC).
